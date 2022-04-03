@@ -1,6 +1,9 @@
-body {
+*{
     background-color: rgb(53, 1, 50);
     text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 h1 {
